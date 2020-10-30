@@ -1,0 +1,4 @@
+data/.gitignore.i
+data/CCS811.lib.i
+data/main.cpp.i
+data/mbed-os.lib.i

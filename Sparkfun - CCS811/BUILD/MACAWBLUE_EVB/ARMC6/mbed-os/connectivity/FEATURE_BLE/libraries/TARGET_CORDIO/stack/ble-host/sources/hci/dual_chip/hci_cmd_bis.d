@@ -1,0 +1,17 @@
+BUILD\MACAWBLUE_EVB\ARMC6\mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\ble-host\sources\hci\dual_chip\hci_cmd_bis.o: \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\ble-host\sources\hci\dual_chip\hci_cmd_bis.c \
+  BUILD\MACAWBLUE_EVB\ARMC6\mbed_config.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\wsf_types.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\wsf_msg.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\wsf_queue.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\wsf_os.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\wsf_types.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\wsf_math.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\util\bstream.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\util\bda.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\ble-host\include\hci_cmd.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\ble-host\include\hci_api.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\hci_defs.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\wsf_os.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\ble-host\sources\stack\hci\hci_main.h \
+  mbed-os\connectivity\FEATURE_BLE\libraries\TARGET_CORDIO\stack\wsf\include\wsf_queue.h

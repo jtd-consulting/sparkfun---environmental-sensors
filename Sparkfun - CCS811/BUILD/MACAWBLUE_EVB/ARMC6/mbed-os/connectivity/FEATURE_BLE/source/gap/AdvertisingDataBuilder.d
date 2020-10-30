@@ -1,0 +1,20 @@
+BUILD\MACAWBLUE_EVB\ARMC6\mbed-os\connectivity\FEATURE_BLE\source\gap\AdvertisingDataBuilder.o: \
+  mbed-os\connectivity\FEATURE_BLE\source\gap\AdvertisingDataBuilder.cpp \
+  BUILD\MACAWBLUE_EVB\ARMC6\mbed_config.h \
+  mbed-os\connectivity\FEATURE_BLE\include\ble\common\ble\gap\AdvertisingDataBuilder.h \
+  mbed-os\platform\include\platform\NonCopyable.h \
+  mbed-os\connectivity\FEATURE_BLE\include\ble\common\ble\UUID.h \
+  mbed-os\connectivity\FEATURE_BLE\include\ble\common\ble\blecommon.h \
+  mbed-os\connectivity\FEATURE_BLE\include\ble\common\ble\BLETypes.h \
+  mbed-os\connectivity\FEATURE_BLE\include\ble\common\ble\SafeEnum.h \
+  mbed-os\platform\include\platform\Span.h \
+  mbed-os\platform\include\platform\mbed_assert.h \
+  mbed-os\platform\include\platform\mbed_toolchain.h \
+  mbed-os\platform\include\platform\mbed_preprocessor.h \
+  mbed-os\connectivity\FEATURE_BLE\include\ble\common\ble\gap\Types.h \
+  mbed-os\connectivity\FEATURE_BLE\include\ble\common\ble\Duration.h \
+  mbed-os\platform\include\platform\mbed_chrono.h \
+  mbed-os\platform\include\platform\mbed_toolchain.h \
+  mbed-os\connectivity\FEATURE_BLE\include\ble\common\ble\Bounded.h \
+  mbed-os\connectivity\FEATURE_BLE\include\ble\common\ble\SafeEnum.h \
+  mbed-os\connectivity\FEATURE_BLE\include\ble\common\ble\gap\AdvertisingDataTypes.h

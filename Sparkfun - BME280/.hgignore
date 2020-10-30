@@ -1,0 +1,4 @@
+^BUILD$
+^.mbed$
+^BME280$
+^mbed-os$
